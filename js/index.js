@@ -6,7 +6,9 @@ This section sets up constants and initial states for the UI elements.
 */
 
 //Variable that holds url for the backend
-const BACKEND_ROOT_URL = 'http://localhost:3001'
+//const BACKEND_ROOT_URL = 'http://localhost:3001'
+const BACKEND_ROOT_URL = 'https://todo-web-app-backend-1.onrender.com'
+
 
 //Import the created Todos class
 import { Todos } from "./class/Todos.js";       //This 'Todos' class responsible for fetching tasks from a backend service and converting them into an array of Task objects.
