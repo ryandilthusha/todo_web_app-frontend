@@ -1,0 +1,2 @@
+# Ignore the server directory. server directory (and all of its contents) will be ignored by Git. 
+/server
